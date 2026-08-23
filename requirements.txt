@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+requests
+scipy
+yfinance
+fredapi
+plotly
+pytrends
+lxml
+html5lib
+beautifulsoup4
